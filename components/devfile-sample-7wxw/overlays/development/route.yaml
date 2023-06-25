@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-7wxw
     app.kubernetes.io/part-of: dc-metro-map
-  name: devfile-sample-7wxw2yz0
+  name: devfile-sample-7wxwln0m
 spec:
   path: /
   port:
