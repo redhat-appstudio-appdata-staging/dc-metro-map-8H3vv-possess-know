@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: devfile-sample-7wxw
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/shbose-tenant/dc-metro-map/devfile-sample-7wxw@sha256:2f4b2f7d0d7ff8b5bf0bfe567c89847389ab1379b299fbf2202e1416c2ca8be0
+      - image: quay.io/redhat-user-workloads-stage/shbose-tenant/dc-metro-map/devfile-sample-7wxw@sha256:28cba07f9b7c94082556dfd619f9c41bb3c62de4938178232ad56c6b4fb7f438
         name: my-nodejs
         ports:
         - containerPort: 3001
